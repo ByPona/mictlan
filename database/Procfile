@@ -1,0 +1,1 @@
+web: gunicorn mictlan.wsgi --log-file -
